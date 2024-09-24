@@ -4,12 +4,9 @@ archivo ejemplo 2
 
 
 cambio 1 en el archivo
-<<<<<<< HEAD
 
 
 cambio 2 en el archivo
 
 
 cambio 3 en el archivo
-=======
->>>>>>> parent of 2968801 (Update ejemplo2.txt)
